@@ -1,0 +1,772 @@
+Turn AI potential
+into AI results:
+8 steps to success
+in manufacturing
+
+Your plan for unleashing the power of
+AI everywhere. That’s AI at work.
+
+Authored by:
+Cam Lau, Eugene Wyniawskyj
+Strategic Engagement and Transformation, UiPathContents
+
+3 Introduction
+4  Driving AI through automation
+5  Defining mission objectives for AI success
+6  Building a transformation action plan
+6   - Step 1: Understand the business’ strategic problem statements
+8   - Step 2: Identify the top-down value at stake
+9   - Step 3: Verify the inside-out value potential
+10   - Step 4: Define the software and data reference architecture
+12   - Step 5: Envision the future of AI-powered automation
+13   - Step 6: Scale up and down the value chain
+15   - Step 7: Operationalize AI
+16   - Step 8: Build a holistic investment case on total cost of
+ownership and AI potential
+17  Achieving strategic outcomes
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 2Introduction
+
+Rising material costs and supply chain disruptions.
+Decarbonization and net zero pressures. Rising customer
+expectation, skills shortages and increasing regulatory
+scrutiny. There’s a perfect storm on the horizon and
+manufacturers know they need to adapt. Increasingly,
+they’re turning to technology to help them do it.
+Automation is already changing the landscape in both
+discrete and process manufacturing—reducing operating
+costs, removing bottlenecks and magnifying output. The
+impact of artificial intelligence (AI) across the sector could
+be even greater. But it can’t do it alone.
+Despite the hype, generative AI (Gen AI) isn’t the panacea
+for all organizations. However, Gen AI marks the point  at
+which powerful and easy-to-use AI has become accessible to
+manufacturers.  Leaders must adapt to this new reality—
+and do so in a considered and strategic way.
+AI, working in tandem with automation, represents an
+enormous opportunity for executives and C-suite. But
+actualizing that potential to deliver real business results
+has been far more challenging. The proportion of “AI high
+performers”—McKinsey’s term for enterprises seeing 20% or
+more earnings before interest and taxes (EBIT) from AI—has
+remained stubbornly unchanged at 8%. AI leaders are pulling
+ahead while the rest are coasting along in second gear.
+Most manufacturing executives are faced with the dilemma
+of strategizing for a technology they don’t fully understand.
+However, they do know it’s critical to the future. They want to
+harness AI and automation to drive operational excellence,
+accelerate revenue growth add streamline customer
+experiences—while improving compliance, sustainability,
+and risk management. But many manufacturing
+organizations aren’t set up—in terms of enablement or
+technology—to take advantage.
+Manufacturers should opt for a holistic
+strategy. One that brings the agility and speed
+of automation together with new Gen AI and
+Specialized AI capabilities to drive operational
+excellence, accelerate revenue growth and
+streamline customer experiences. All while
+improving compliance, sustainability, and risk
+management.
+This white paper provides a replicable
+strategy to help manufacturing leaders turn
+AI potential into AI results.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 3Driving AI through
+automation
+
+Every dollar saved reducing supply chain friction. Every
+second of downtime eliminated. Every ounce of waste
+reduced. Every sales engagement accelerated and after-
+sales process improved. It all adds up to big wins today and
+major growth opportunities tomorrow. And it’s delivered
+by automation and AI.
+Having adopted automation early, manufacturers have
+been quick to recognize the potential of augmenting this
+technology with AI. According to research, the value of the
+global AI in manufacturing market will increase from $3.2
+billion in 2023 to $20.8 billion by 2028. And there’s growing
+excitement around the ability of AI and automation to drive
+Industry 4.0 and new generation Industry 5.0 initiatives.
+A Bain & Company survey found that 74% of organizations
+expect a positive ROI from their AI-driven automation
+initiatives—with 56% saying the combination of automation
+and AI (and machine learning) will make “the most profound
+impact”.
+“We’re here to ‘brew’ the robot out of the person.
+Automation will help people in their jobs. It will free up time
+to focus on value-added activities and being creative. It will
+fuel Heineken growth.”
+Lucy Todorovska,
+Global Hyperautomation Product Manager
+To realize this ROI, a value-based strategy is required to
+secure the people, processes, and technology to deliver AI at
+scale. This starts by understanding business value over three,
+four and five years, the investment case, and the evolution in
+the reference architecture. Of course, manufacturers won’t
+have to wait that long to achieve value. A fast start will deliver
+significant returns quickly.
+A definition of the potential value at stake aligned to key
+business drivers—and the corresponding investment case—
+is needed. This not only justifies the why, it allows you to
+articulate the where, what, and how needed to achieve the
+value potential.
+
+By putting AI and automation into action,
+automotive manufacturer Volvo has reduced
+operating cost by 40%. Semi-conductor giant
+Intel has streamlined cross-border shipping
+processes by removing 85% of manual hours
+from its trade screening compliance. Consumer
+electronics leader Arçelik has transformed over
+85 process and is saving over $1.1 million a year.
+And, by 2025, Heineken expects to save over one
+million hours across the business through its
+automation-at-scale program. The list goes on.
+All of this can be achieved by
+bringing the transformative force
+of AI to life in the organization
+through automation. And doing it in
+a highly consultative, analytical, and
+strategic manner.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 4Defining mission objectives
+for AI success
+
+Manufacturing leaders have done a tremendous job driving
+change in these volatile times. Many UiPath customers are
+driving transformation and achieving significant business
+value—increasing productivity, boosting revenue growth,
+improving sustainability and more— by putting AI and
+automation to work across their organizations.
+However, for many executives, the personal ambition to
+lead on AI and automation transformation is a constant
+battle of skill, not will. Historically, these transformations
+in the manufacturing sector have been intricate, with a mix
+of legacy systems and cutting-edge data science initiatives.
+The most prevalent form of AI and automation projects
+mirrors ‘digital’ variations of Lean Six Sigma-style operational
+excellence programs, focusing on efficiency and compliance.
+At UiPath, we understand the unique objections and
+challenges faced in the manufacturing sector when
+embarking on AI and automation projects. A frequent
+concern is articulating the business case ROI and tangible
+value of AI and automation.
+Starting and sustaining long-term strategic transformation
+with AI and automation in manufacturing is difficult. It
+requires a deep understanding of the technology and
+business challenges, proprietary modeling, and benchmarks
+per line of business, and per operation. This is coupled with
+a general lack of clarity around value—and the challenges in
+moving from basic cost or time-saved value drivers to more
+strategic manufacturing-focused measures like supply chain
+improvement, downtime mitigation and enhancements
+throughout the product lifecycle.
+Common challenges:
+• Automation savings not tightly linked to
+board-level KPIs
+• Low ROI realized and diminishing value
+delivered to date (e.g., productivity becomes
+a key metric, not profit and loss (P&L)
+impact, etc.)
+• Value not sized in logical units a business
+unit and/or function can actualize (e.g.,
+there’s no value in automating a subprocess
+that happens for five mins—once a year)
+• Automation programs stuck in piloting or
+PoC scope
+• Prohibitive cost of implementation and
+maintenance due to the increasing costs of
+niche tech talent
+• Avoiding technical debt across the complex
+ecosystem of different point solutions
+• Questions around AI systems’ compliance
+with existing and emerging regulations
+These existential challenges need to be solved to unleash
+the potential of AI. Our approach informs an overall strategy
+that allows our leading clients to design and articulate
+the vision, value, and roadmap to deliver value at scale
+across the organization. Bolstering your operating posture,
+pioneering innovation, and empowering your teams to
+ignite productivity and growth, pioneer sustainability, and
+improve field and customer experiences—all while slashing
+inefficiencies, wait times, and errors.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 5Building a transformation action plan
+
+Step 1: Understand the business’ strategic problem statements
+
+The best place to start is to look at the strategic objectives that may be in flight in the organization, this  isn’t a
+set by the board. It’s important to understand the problem comprehensive list. It does, however, offer a useful context
+statements and corresponding objectives before embarking for the kind of transformation planning needed today.
+on a transformative change journey. When asked about
+problem solving, Albert Einstein famously said, “If I had an Defining enterprise problem statements that can be
+hour to solve a problem—I’d spend 55 minutes thinking about addressed with AI isn’t easy. But, by looking at what
+the problem and 5 minutes thinking about solutions.” drives value for your business, it’s possible to focus on
+the concepts and principles that make up the rest of the
+Figure 1 illustrates different types of mission goals transformation plan.
+across enterprise, divisional, and process transformation
+archetypes. Considering all the different transformations
+
+FIGURE 1
+Examples of mission goals across three organizational levels:
+enterprise, divisional, and process
+
+Enterprise
+transformation
+Foster enterprise agility by
+nurturing creativity, collaboration,
+and innovation
+Divisional
+transformation
+Digitize the division across
+non-digital products, services, or
+operations
+Process
+transformation
+Reduce waste in time, effort,
+and materials to drive operating
+expense efficiency
+
+New or upgrade: skills, people, A layer bringing in the new and Diagnose
+processes elevating the old
+
+A gateway to latest intelligent and A platform for
+New or upgrade: processes all stages of Improve
+cognitive tech and technology improvement
+
+New or upgrade: New or upgrade: Monitor
+core manufacturing applications core manufacturing applications
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 6UiPath has helped many manufacturing organizations
+answer these questions:
+• “What does an increase of 10% operational capacity do
+to my operating margin?”
+• “How does this link to EBITDA and operating margin
+earnings per share?”
+• “How do we enable a four-day work week?”
+• “What pain points are we not solving that impact how
+we are perceived by our end-customers?”
+Defining the problem statement isn’t just about
+identifying points of resistance and operational pain.
+Figure 2 illustrates how the balance between resistance
+and innovation needs to be explored to truly maximize the
+value AI-powered automation can bring. Once a clear view
+on the problem statement is made, sizing the potential
+value of the solution is the critical next step to delivering
+that value.
+
+FIGURE 2
+Innovation initiatives are often met with internal resistance
+
+Innovation Resistance
+
+Reasons to innovate Points of resistance
+
+Competitor moves
+Macro-economic challenges
+(changing regulations and
+geopolitics)
+New entrants
+Growing expectations of
+shareholders and customers
+Free up working capital,
+buoyancy in volatile supply
+chains
+Declining barriers to new tech
+Non-competitive time to
+market
+Aging populations and attrition
+Lack of technology investment
+across value chain
+Lack of skills and talent
+Lack of reinforcing
+mechanisms
+Complex legacy manufacturing
+systems and technology
+Lack of role modeling
+Lack of education and
+understanding by operations
+
+Example interventions
+Automate
+Launch new Improve employee Moonshot
+products to market experiences with projects to win
+through new and contemporary AI hearts and minds
+existing channels technologies
+Example interventions
+Discover Automate Operate
+Understand what Connect the dots Ideate and govern
+truly pains your front and back and digital maturity with
+stakeholders with deliver a new way of Automation Hub—a
+digital twins working across the single source of truth
+entire value chain
+
+Source: UiPath Strategic Engagements and Transformation Experts
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 7Step 2: Identify the top-line value at stake
+
+Sizing up what will solve the problem statements is key to These can include operating margin, profit and loss (P&L), days
+justifying the reasons for embarking on the execution and sales outstanding (DSO), working capital, net promoter score
+delivery of these levers. A proper value analysis helps set up (NPS) /customer satisfaction score (CSAT), and even risk and
+a successful transformation by sizing the opportunity along compliance. These value drivers end up being hugely important
+with the most important business value drivers. KPIs to measure success.
+
+FIGURE 3
+A top-down approach helps maximize success
+and scale AI and automation transformation
+
+Top-down approach Bottom-up approach
+
+Start with executive visioning around
+automation and value at stake
+
+Establish yearly automation goals by
+functional area
+Lack of alignment between
+business and CoE
+
+Plan and budget for resources,
+and define enterprise reference
+architecture with AI and automation
+CoE persuades business to find
+more automation ideas
+
+Form an intelligent AI,
+automation operating
+model, centers of excellence
+Few more automations within
+the same business solution
+
+Diagnose and build AI and
+automation use case pipeline
+prioritized by strategic goals
+Establish a CoE
+
+Business and CoEs co-lead to drive
+fast value realization
+Few automations in one of the
+business functions
+
+Start with a small POC
+
+Better business outcomes, teams work
+together to achieve common goals
+Good start but not scalable and holistic
+
+Identifying the value potential can be an extremely difficult
+and manual task. That’s especially true when there’s
+no process or operational taxonomy, the data quality
+in telemetry is poor, or there’s a lack of business and
+operational teams in place to track and gather insights.
+Defining the value of aligning your program to core value
+drivers and problem statements helps the transformation
+to focus in on areas of specific attention. Most importantly,
+it identifies the specific AI and automation levers that are
+needed to be deployed.
+A top-down approach drives better outcomes when
+compared to the more commonly seen bottom-up
+approach, as shown in Figure 3. UiPath has worked with
+manufacturing organizations that have faced a wide
+range of scenarios, and this is where technology can really
+help. They’ve leveraged top-down mining technologies
+like UiPath Communications Mining and UiPath Process
+Mining, in combination with proprietary AI and automation
+benchmarks. This meant they could build a data-driven fact
+base that allows them to identify (without the need for deep
+SMEs) the “big rock” opportunities for digitization, LEAN,
+automation, and AI within an entire business. Furthermore,
+it helped them set up the foundation to measure the
+effectiveness of all transformation initiatives in-scope.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 8Step 3: Verify the inside-out value potential
+
+A top-down sizing of value potential needs bottom- considered for applicability and effectiveness
+up verification. Historically, this part of the strategic at this stage.
+transformation is delivered through deep-dive interviews and
+workshops run by an ecosystem of consulting partners. Here, analysis often incorporates existing automation
+maturity and AI penetration to shed light on the factors that
+The objective of this step is to capture key process information erode the aspirational automation potential. A platform-
+and pain points, and to develop a target-state architecture in centric approach at this stage is usually articulated with
+the business. Specific product features, off-the- shelf resources great detail and benefits extend beyond the hard savings of
+like solution accelerators and marketplace use cases, are specific use cases alone.
+
+FIGURE 4
+There’s value in AI and automation transformation beyond
+the hard savings delivered by individual use cases
+
+Total impact from AI and automation
+Hard AI and automation savings from use cases 60%
+30%
+Unify the business user experience Reduction in IA
+TCO spend
+Platform benefits
+Access global talent pools to drive down 10%
+Increased success 40%
+implementation cost chance
+
+Scale AI and automation libraries
+200%
+Faster time to
+value delivery
+
+Reduce IT OPEX TCO
+20%
+Reduction in
+OPEX services
+
+Total P&L impact
+
+Source: 2023 - Strategic Engagement Study of High Maturity Fortune 500 Customer
+
+Leading manufacturers leverage UiPath and its consulting
+partners to bring to life proprietary industry and line
+of business data sets, combined with task and activity
+capturing technologies—like UiPath Task Mining—to align to
+the daily practicalities of business operations. This results in
+a confident and actionable pipeline of use cases.
+However, real-world use cases are only a fraction of the total
+value at stake. Figure 4 illustrates how P&L impact beyond
+the hard savings can be achieved by embracing an overall
+AI-powered automation platform.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 9Step 4: Define the software and data reference architecture
+
+Once we know where to play, the next step is making sure
+we know how to play. It’s important to thoroughly analyze
+the enterprise technology stack. Only by identifying the
+potential blockers here can enterprise risk and agility can
+be managed and optimized.
+Defining what ‘good’ looks like across the enterprise
+architecture’s core systems of record, differentiation, and
+innovation—overlayed with AI and automation use cases
+that span across the stack—is key to knowing how to
+leverage these technologies strategically.
+For example, a strategy that solely relies on API integration
+to connect core manufacturing systems will fall short in
+capturing the full potential brought about by user interface
+data integrations. Similarly, a strategy that just focuses
+on core RPA—without exploring how digital assistants
+and Gen AI fit into the workflow—won’t maximize the
+value the technology could bring to the operation. Finally,
+clients often have myriad intelligent automation tools
+in their enterprise stack, and miss the value potential of
+consolidating and reducing the number of point-solution
+vendors.
+Figure 5 illustrates how a system of AI-powered
+automation should be treated as omnipresent—
+surrounding and running throughout the manufacturer’s
+core systems.
+
+FIGURE 5
+Systems of AI and automation need to be wrapped
+around the enterprise’s entire technology stack
+
+Systems of AI and automation
+Business-centric automation platform
+
+Systems of innovation
+Consumer focused, new applications, business models
+Continuous discovery and monitoring
+Low-code apps Workflows Analytics LLMs and AI
+expert systems UI and API integration
+Systems of differentiation
+Unique processes and capabilities, SaaS, modules of a platform
+
+Customized
+interfaces
+Intelligent document
+processing
+
+Systems of record
+Core transactional processing mission critical master data
+
+Unified management
+and governance
+Analytics
+Continuous
+testing
+
+Source: 2023 - Strategic Engagement Study of High Maturity Fortune 500 Customer
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 10AI data architecture requirements need to be considered
+holistically. The manufacturer’s architecture should be
+scalable and performant, capable of integrating and
+centralizing data from various sources while making sure
+data quality and governance. It must prioritize security
+and privacy measures, provide agility and flexibility for
+iterative experimentation, and promote collaboration and
+accessibility.
+A traditional approach is to leverage a big data approach—
+also known as a data lake—so enterprises can extract
+valuable insights from large and complex datasets. However,
+maintaining a data lake demands careful governance
+and data management practices. By contrast, managing
+federated data sources as part of a single system reduces
+data duplication and improves privacy. But it could also
+involve more complex data integration processes that
+present challenges in ensuring real-time data availability.
+This is where introducing an AI and automation layer
+can help aggregate the highest-priority data quicker and
+cheaper—so it’s ready to be consumed by your AI models.
+Ultimately, strategizing for data depends both on regulatory
+environments and what the business wants to achieve with
+its AI-powered automation system.
+Consider the current wave of GenAI technologies. There’s
+a need for executives to understand the impact this has
+on business operations in the immediate term. While most
+vendors ensure the stability, security, and governance of
+their services, it’s hard to visualize how this translates to
+the organization.
+UiPath follows a platform-based approach
+to deploying both GenAI and Specialized
+AI. This allows standardized, governed,
+and secure ways of introducing these
+breakthrough technologies to people and
+processes effectively. And with an open
+approach, GenAI models can be natively
+built into all aspects of the UiPath Business
+Automation PlatformTM—which can scale
+throughout the entire value chain.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 11Step 5: Envision the future of AI-powered automation
+
+Imagine a world with 10X more creativity and inspiration, example of how the activities and processes of a typical back
+starting new businesses and entering new markets at office worker may be augmented and streamlined with AI and
+a moment’s notice, where every employee is 10X more automation in the loop.
+productive. Deployed correctly, AI-powered automation
+creates an environment in which your employees thrive. AI can impact the way an organization manages people and
+culture, because lasting change and sustainable business
+Another way to envision the benefits is through the lens impact require a holistic uptake.
+of your employees’ daily activities. Figure 6 provides an
+
+FIGURE 6
+An example of how GenAI, Specialized AI, and automation
+technologies come together to augment work
+
+Automation can augment the day in the life of employees
+
+Core system process Processes worked on in a month Time saving potential
+automation
+Human-in-the-loop 1 2 3 4 5 6 7 8 9 10
+process automation
+
+Individual general
+knowledge tasks
+(automation + Gen AI)
+Physical activity
+Back-office
+employee
+
+% of employee time 10% 15% 10% 16% 7% 4% 10% 8% 15% 5%
+
+Different work activity
+archetypes
+Manually transacting across
+different core systems of record
+Scope for automation + AI
+Applying business rules and logic
+to different scenarios
+Creating and synthesizing new
+artefacts and insights
+
+Human-in- UI + API
+Automation capabilities UI + API integrations the-loop + integrations Digital assistants + Generative AI models
+often deployed
+
+Source: Illustrative figures provided by UiPath
+
+Cultural adoption is a key workstream for any transformation Making sure that executives are aware of your AI and
+plan. The plan may also align with broader corporate change automation ambition—and how people, processes, and
+strategies and in-flight business programs. This could include technology stack will be impacted—will deliver faster and
+tapping into existing capabilities and change management more scalable programs.
+content being delivered as part of an SAP S/4 Hana migration,
+Agile customer journey re-design, or business process
+optimization (BPO) offshoring migration.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 12Step 6: Scale up and down the value chain
+
+Guaranteeing that any AI-powered transformation program
+can achieve its full potential requires a perspective on how
+it can scale across the entire value chain. While end-to-end
+(E2E) is often overused, customers that achieve it follow a
+two-speed approach, as shown in Figure 7:
+
+FIGURE 7
+Two common approaches when driving automation at scale
+
+Strategic E2E transformation
+
+Design thinking, new process design, and process redesign
+Long-term
+EBITDA impact
+
+Change management and value governance
+
+In-year tactical delivery
+
+Well defined discovery methods:
+task ideation, triage, and prioritization
+In-year
+P&L impact
+
+Asset libraries and standardized delivery
+
+The first is strategic. The full end-to-end redesign of a process
+or operation using digital technology, AI, and automation
+is the primary objective and end-state. Typically, this sees
+the reimagination of entire cross-functional processes and
+customer journeys.
+The strategic approach takes the best of design thinking
+practices and overlays an end user appreciation for the
+target state journey. This drives more holistic business
+outcomes, often on an order of magnitude higher than a more
+tactical approach. Often, the strategic horizon leans on large
+programs of product engineering, new business building and,
+in extreme cases, mergers and acquisitions (M&A) to actualize
+the value over multiple years.
+However, this approach isn’t without its risks and challenges.
+That’s why a comprehensive strategy always includes a plan
+for a second speed. This rapid and tactical speed is pragmatic
+and underpins the in-year business case through tactical line
+of business delivery.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 13The second is tactical, and begins with the highest
+automation potential (e.g., corporate functions, customer
+care) and articulating key personas and activity archetypes
+that’ll allow the transformation to begin capturing in-year
+value. Often this approach identifies entry and exit points
+along bigger and broader canonical processes, which results
+in more backlog and pipeline for First Speed.
+As the time-to-value for the tactical approach is vastly quicker,
+this sometimes becomes a point of contention with other big
+business programs in flight. This can sometimes result in what
+we know as use-case ‘sniping’, where one change program
+takes the use case and benefit statement from an opportunity
+area from another. For example, a common scenario, during
+an ERP migration to cloud, a transformation program run by
+UiPath was undermined by an IT change program that had
+the imperative to grow its existing scope and add the use
+cases identified to their backlog. This wasn’t suitable for the
+business as changes were estimated to take two years.
+UiPath would have solved the pain point in a matter of
+months. However, with strategic partnerships with ERP
+vendors, these situations should no longer arise.
+A strategic plan for scale needs to be articulated, syndicated,
+and agreed upfront. Most importantly, a plan to articulate
+how the different business benefits are captured and
+recognized among the many concurrent change programs
+that are being delivered by other stakeholders.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 14Step 7: Operationalize AI
+
+Operationalizing and scaling AI requires a holistic operating Our leading manufacturing customers set up holistic
+model that’s agile, comprehensive, and proactively resilient. operating models to capture ‘who’ is needed and ‘how’
+Mapping the interactions across an organization in this AI can be scaled across the manufacturing organization.
+operating model helps manage risk—identifying potential
+issues before they become problems. This strategy is anchored on the following four principles:
+
+1. Being realistic with existing automation and AI maturity: regardless of whether a manufacturer is starting from
+a greenfield or brownfield environment, a large upfront focus on the operating model design will depend on existing
+support processes, as well as discover and delivery capabilities. Determining whether existing processes are enough
+or new ones need to be designed.
+2. Tightly linking organizational priorities, OKRs, and KPIs: translating and cascading corporate strategic KPIs
+to the individuals in the business unit is key to ensure success and continuous adoption of any AI and automation
+program. Understand how each objective/KPI can be impacted by the different components of the platform
+technologies at your disposal.
+3. Maintain a focus on agility, but don’t forget about the merits of waterfalling: agility is key to delivering
+transformative impact with AI-powered automation. Because of the tight dependency on business operations, Agile
+delivery methodology in isolation won’t work. Deploying AI-powered automation requires a real focus on change
+management to mitigate the associated disruption to live operational processes, teams, and customers. Not just the
+use-case definition and specific process improvements it’ll bring.
+4. Achieving competitive advantage without jeopardizing ethics: as AI finds its way into every aspect of the
+manufacturing organization, strict guidelines must be in place to ensure democracy, legitimacy, and transparency as
+AI and automation are scaled and operationalized. Defining the personas that need the most attention and actively
+managing AI training data inputs to minimize unforeseen biases is the best first step to ensure ethical safeguards.
+For example, business processes and technological guardrails will prevent AI-driven processes from discriminating
+against end-consumers. These guardrails range from human-in-the-loop reviews, to strict data cleansing and model
+retraining ML operations. A plan that captures the widest range of scenarios is key to making sure AI and automation
+are operationalized sustainably and successfully.
+
+Leading UiPath manufacturing customers adopt a agile methodology and scrum teams driving delivery and
+hybrid approach to their operating models, built on enablement. Plus, a highly iterative top-down diagnosis,
+the understanding that AI systems aren’t infallible and discovery, and delivery focuses the team on value capture,
+require human supervision. This hybrid model involves ethical deployment, and security.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 15Step 8: Build a holistic investment case on total cost of
+ownership and AI potential
+
+Formulating an investment case that forecasts the real value
+of an AI program can only be done by including total cost
+of ownership (TCO) in your analysis. Accurately calculating
+the impact of new roles and people, new technology and
+infrastructure, and new investments in change management
+is needed to get to a real ROI figure.
+Our manufacturing customers often model out benefit
+growth due to near-term emerging and improving
+technologies, while conversely becoming more aggressive
+when modeling out costs due to economies of scale and
+emerging unified platforms.
+It’s important to note that GenAI and Specialized AI are
+much like RPA back in 2016. When these technologies were
+introduced into the organization in isolation, companies
+faced exploding IT operating costs and shadow IT. It wasn’t
+until the consolidation of the market and a holistic platform-
+based approach started to emerge that ROI started to turn
+positive.
+AI is at this same inflection point, akin to the early days of
+RPA, where point solutions and vendors vied for the same
+fixed budgets. Should history be repeated, the inefficiencies
+of managing an estate of disparate technologies will (again)
+drive up IT operational costs and increase TCO.
+In contrast, a unified platform-based approach like UiPath—
+especially with its focus on GenAI and Specialized AI
+integration for the whole organization—will do the reverse.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 16Achieving strategic outcomes
+
+Embracing AI strategically can unlock numerous benefits for
+the manufacturer. From enhanced operational efficiency and
+improved decision making to elevated customer experiences
+and a sustainable competitive advantage, the value is
+considerable.
+It’s important to develop a well-defined strategy that
+understands strategic business challenges, benchmarks
+value, and thinks strategically about how to operationalize
+and scale AI-powered automation.
+By doing so, the business will be able to capitalize on the
+potential cost and capacity benefits from AI and automation
+to drive growth and success.
+Understanding the common pitfalls and the lessons learned
+by peers can help you step beyond hours and dollars saved
+to achieve top-line, strategic business value. UiPath proudly
+shares customers’ strategic success in line with four vital
+business outcomes:
+
+1. Cost transformation: cost transformation means achieving better results, having spent time and money
+wisely. Introducing AI-powered automation into the workplace allows businesses to streamline more
+processes, reducing the need for manual interventions and reorienting employees to high-value work. The
+result is more efficient and agile processes, with a greater focus on customers and business outcomes.
+2. Profitable growth: increasing profits while maintaining or even reducing margins across your business. By
+introducing AI-powered automation into the workplace, manufacturers can improve customer engagement,
+increase productive innovation, and launch new services and products more quickly. The result is higher
+margin growth and expanding revenue streams thanks to a renewed focus on customer acquisition, retention,
+and growth.
+3. Managed risk and maximized compliance: a combined AI and automation approach can play a crucial role
+in managing the risk and compliance challenges facing today’s manufacturers. By implementing an intelligent
+platform that quickly incorporates new compliance rules, organizations can keep up with evolving regulations
+and reduce the risk of non-compliance. The business impact is significant, driving efficiency, reducing costs,
+and increasing customer trust.
+4. Improved customer experience and increased employee engagement: by streamlining systems and
+processes, manufacturers can enhance the overall customer and employee experience. Organizations that use
+automation to improve employee experience can attract and retain the best talent. They’ll not just become
+an employer of choice, a happier workforce will boost customer satisfaction through improved interaction,
+support, and service. Which will drive loyalty and revenue growth.
+
+To see how the world’s most successful manufacturers  are embedding
+AI-powered automation into customer experience, lending, risk mitigation,
+and much more, visit the UiPath manufacturing page.
+
+UiPath is AI at work.
+
+UIPATH.COM  | TURN AI POTENTIAL INTO AI RESULTS: 8 STEPS TO SUCCESS IN MANUFACTURING 17

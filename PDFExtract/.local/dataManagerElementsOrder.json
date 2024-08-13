@@ -3,7 +3,10 @@
     {
       "Path": null,
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "strPDF&",
+        "colMatches&"
+      ],
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -12,10 +15,8 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "finalQuery&Sequence_6",
-        "line3&Sequence_6",
-        "line2&Sequence_6",
-        "line1&Sequence_6"
+        "colMatches&Sequence_1",
+        "strPDF&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
